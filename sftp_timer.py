@@ -3,8 +3,8 @@ from main import main
 
 
 BASIC_PATH = "/data02/cgp_sftp"
-USER = "cgp"
-PASSWORD = "cgp12345"
+USER = "cp"
+PASSWORD = "12345"
 HOST = "192.168.2.203"
 local_path = input("请输入临时文件存放地址>>")
 

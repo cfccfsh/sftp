@@ -81,8 +81,8 @@ def main(basic_path, user, password, host, local_path, timeout=10):
 
 if __name__ == '__main__':
     basic_path = "/data/"
-    user = "cgp"
-    password = "cgp12345"
+    user = "cp"
+    password = "12345"
     host = "192.168.2.203"
     local_path = "/home/fsh/AUG08"
     main = main(basic_path=basic_path, user=user, password=password,

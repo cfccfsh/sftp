@@ -79,8 +79,8 @@ class HandlerFtpFile():
 if __name__ == '__main__':
     host = "192.168.2.203"
     local_path = "/home/fsh/AUG08/test.text"
-    user = "cgp"
-    password = "cgp12345"
+    user = "cp"
+    password = "12345"
     server_path = "/data/test.text"
     dir_path = "/data/"
     ftp = HandlerFtpFile(host=host, local_path=local_path, server_path=server_path)
